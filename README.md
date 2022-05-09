@@ -3,7 +3,9 @@
 ## 然后使用git init将其变成可管理的git仓库
 ## 用git remote add origin （复制你仓库的ssh方式）
 ![](images/1.jpg)
-##
+## 使用git add将你想push的文件add进来
 ![](images/2.jpg)
+##
 ![](images/3.jpg)
+##
 ![](images/4.jpg)

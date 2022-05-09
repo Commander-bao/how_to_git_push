@@ -5,7 +5,7 @@
 ![](images/1.jpg)
 ## 使用git add将你想push的文件add进来
 ![](images/2.jpg)
-##
+## 用命令git commit告诉Git,把文件提交到仓库,引号里的内容是本次提交的说明
 ![](images/3.jpg)
-##
+## 最后使用git push -u origin master
 ![](images/4.jpg)

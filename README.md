@@ -1,2 +1,2 @@
 # git push 总结
-![](image/1.jpg)
+![](images/1.jpg)
